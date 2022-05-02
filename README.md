@@ -32,6 +32,7 @@ The Azure Face service provides AI algorithms that detect, recognize, and analyz
 **Output**: It returns a boolean value “isIdentical” which can be True or False and also a “confidence” value which would range from 0 to 1.
 
 **References**: 
-Microsoft Azure Documentation - https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview 
 
-URL to Live API - http://159.203.185.164:3000/api-docs
+**Microsoft Azure Documentation** - https://docs.microsoft.com/en-us/azure/cognitive-services/face/overview 
+
+**URL to Live API** - http://159.203.185.164:3000/api-docs
