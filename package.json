@@ -1,0 +1,31 @@
+{
+  "name": "itis-6177-final-project",
+  "version": "1.0.0",
+  "description": "System Integration Final Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saketh240198/ITIS-6177-final-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saketh240198/ITIS-6177-final-project/issues"
+  },
+  "homepage": "https://github.com/Saketh240198/ITIS-6177-final-project#readme",
+  "dependencies": {
+    "@azure/ai-text-analytics": "^5.1.0",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.3.0",
+    "nodemon": "^2.0.16"
+  }
+}
